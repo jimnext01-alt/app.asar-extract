@@ -1,0 +1,14 @@
+{
+  "main": "electron-main.js",
+  "name": "yuedianedu",
+  "version": "1.4.1",
+  "description": "桌面应用",
+  "dependencies": {
+    "aliyun-aliplayer": "^2.29.2",
+    "cross-env": "^7.0.3",
+    "electron-log": "^5.4.0",
+    "node-fetch": "^3.3.2",
+    "ps-list": "^8.1.1",
+    "uview-ui": "^2.0.37"
+  }
+}
